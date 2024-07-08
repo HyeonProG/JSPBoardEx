@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #f4f4f4;
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
+h2 {
+	display: flex;
+    justify-content: center;
+}
+table {
+	border: 1px solid #fff;
+}
+.item {
+	text-decoration: none;
+}
